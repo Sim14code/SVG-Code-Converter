@@ -33,7 +33,7 @@ SVG-Code-Converter/
 │
 ├── backend/            # FastAPI + GraphQL backend
 ├── frontend/           # React.js frontend
-├── models/             # StarVector or AI-related assets (clone repo of  modal)
+├── model/             # StarVector or AI-related assets (cloned repo of  model)
 ├── README.md
 └── requirements.txt
 ```
