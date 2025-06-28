@@ -14,7 +14,7 @@ A powerful and simple full-stack web application that converts user-uploaded ima
 
 ---
 Note:
-This model does not transfer the model directly.We need to manually
+This model does not use interaction API with HuggingFace to access the model directly.We need to manually
 ---
 
 
